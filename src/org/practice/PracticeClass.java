@@ -8,7 +8,7 @@ public class PracticeClass {
 		
 		System.out.println("Branch 1 code");
 		
-		
+		System.out.println("Branch 2 code");
 	}
 	
 	
